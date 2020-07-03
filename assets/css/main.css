@@ -234,7 +234,7 @@ a:hover
 {
     opacity : 1;
     background-color : black;
-    filter:brightness(70%);
+    filter:brightness(100%);
     position: absolute;
     z-index: 1;
     top: 0;
@@ -248,7 +248,7 @@ a:hover
             transition: opacity 1s ease;
     
 
-    background: url(../img/background.jpg);
+    background: url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
