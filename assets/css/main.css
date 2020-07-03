@@ -234,7 +234,7 @@ a:hover
 {
     opacity : 1;
     background-color : black;
-    filter:brightness(50%);
+    filter:brightness(70%);
     position: absolute;
     z-index: 1;
     top: 0;
