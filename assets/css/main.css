@@ -232,8 +232,8 @@ a:hover
 
 .image-container .background-img
 {
-    opacity : 1;
-    background-color : black;
+    
+    
     filter:brightness(100%);
     position: absolute;
     z-index: 1;
@@ -251,6 +251,9 @@ a:hover
     background: url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color : black;
+    background-position : center center ;
+    
 }
 
 @media (max-width:1200px)
