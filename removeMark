@@ -1,0 +1,10 @@
+<script>
+    $(document).ready(function() {
+        $(".w-webflow-badge").removeClass("w-webflow-badge").empty();
+    });
+</script>
+
+## hit counter 
+
+ <a href='https://www.counters-free.net/'>COUNTER-free</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=70cda59f137045ad7ed7b5fa840fe91cbddf95bf'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/825072/t/9"></script>
